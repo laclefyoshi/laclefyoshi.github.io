@@ -181,11 +181,12 @@
                 <h3>リンク集</h3>
               </div>
               <ul class="mdl-list" id="external-links">
-                <li class="mdl-list__item"
+                <li class="mdl-list__item mdl-list__item--two-line"
                     v-for="link in links">
                   <span class="mdl-list__item-primary-content">
                     <i class="material-icons mdl-list__item-icon">collections_bookmark</i>
                     <a href="{{link.url}}" target="_blank">{{link.title}}</a>
+                    <span class="mdl-list__item-sub-title">{{link.description}}</span>
                   </span>
                 </li>
               </ul>

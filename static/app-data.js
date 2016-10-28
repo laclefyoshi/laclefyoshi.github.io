@@ -41,7 +41,11 @@ var presentations = [
     {"title": "KafkaとAWS Kinesisの比較",
      "url": "http://www.slideshare.net/laclefyoshi/kafkaaws-kinesis",
      "publisher": "Apache Kafka Meetup Japan #1",
-     "date": "2016/05"}
+     "date": "2016/05"},
+    {"title": "ストリーム処理を支えるキューイングシステムの選び方",
+     "url": "http://www.slideshare.net/laclefyoshi/ss-67658888",
+     "publisher": "ビッグデータのリアルタイム処理技術勉強会",
+     "date": "2016/10"}
 ];
 
 var links = [
@@ -77,5 +81,5 @@ var links = [
      "description": "reblog"},
     {"title": "laclefwiki (wiki)",
      "url": "https://wiki.saekiyoshiyasu.org/",
-     "description": "個人Wiki"},
+     "description": "自分用Wiki"},
 ];

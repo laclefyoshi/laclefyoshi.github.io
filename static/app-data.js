@@ -45,7 +45,12 @@ var presentations = [
     {"title": "ストリーム処理を支えるキューイングシステムの選び方",
      "url": "http://www.slideshare.net/laclefyoshi/ss-67658888",
      "publisher": "ビッグデータのリアルタイム処理技術勉強会",
-     "date": "2016/10"}
+     "date": "2016/10"},
+    {"title": "Queryable State for Kafka Streamsを使ってみた",
+     "url": "http://www.slideshare.net/laclefyoshi/queryable-state-for-kafka-streams",
+     "publisher": "Apache Kafka Meetup Japan #2",
+     "date": "2016/12"}
+
 ];
 
 var links = [

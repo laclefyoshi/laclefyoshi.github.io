@@ -49,6 +49,10 @@ var presentations = [
     {"title": "Queryable State for Kafka Streamsを使ってみた",
      "url": "http://www.slideshare.net/laclefyoshi/queryable-state-for-kafka-streams",
      "publisher": "Apache Kafka Meetup Japan #2",
+     "date": "2016/12"},
+    {"title": "Apache Sparkにおけるメモリ - アプリケーションを落とさないメモリ設計手法 -",
+     "url": "http://www.slideshare.net/laclefyoshi/apache-spark-70339069",
+     "publisher": "市ヶ谷Geek★Night#1 ChristmaSpark",
      "date": "2016/12"}
 
 ];

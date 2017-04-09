@@ -52,7 +52,7 @@ var presentations = [
      "date": "2016/12"},
     {"title": "Apache Sparkにおけるメモリ - アプリケーションを落とさないメモリ設計手法 -",
      "url": "http://www.slideshare.net/laclefyoshi/apache-spark-70339069",
-     "publisher": "市ヶ谷Geek★Night#1 ChristmaSpark",
+     "publisher": "市ヶ谷Geek★Night#11 ChristmaSpark",
      "date": "2016/12"},
     {"title": "ストリーミングデータのアドホック分析エンジンの比較",
      "url": "https://www.slideshare.net/laclefyoshi/ss-74398007",

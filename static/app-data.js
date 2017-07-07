@@ -18,7 +18,7 @@ var books = [
      "date": "2016/08",
      "description": "ESP8266/ESP-WROOM-02の使い方",
      "amazon": "http://amzn.to/2cgvRHw",
-     "icon": "tablet_android"}
+     "icon": "tablet_android"},
 ];
 
 var presentations = [
@@ -57,7 +57,11 @@ var presentations = [
     {"title": "ストリーミングデータのアドホック分析エンジンの比較",
      "url": "https://www.slideshare.net/laclefyoshi/ss-74398007",
      "publisher": "BigData-JAWS 勉強会#6 Kinesis祭り",
-     "date": "2017/04"}
+     "date": "2017/04"},
+    {"title": "Apache Kafka 0.11 の Exactly Once Semantics",
+     "url": "https://www.slideshare.net/laclefyoshi/apache-kafka-011-exactly-once-semantics",
+     "publisher": "Apache Kafka Meetup Japan #3",
+     "date": "2017/07"},
 ];
 
 var links = [

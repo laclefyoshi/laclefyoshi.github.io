@@ -62,6 +62,10 @@ var presentations = [
      "url": "https://www.slideshare.net/laclefyoshi/apache-kafka-011-exactly-once-semantics",
      "publisher": "Apache Kafka Meetup Japan #3",
      "date": "2017/07"},
+    {"title": "Apache Kafkaとグラフデータベースによる成長するネットワークグラフを分析・可視化する基盤",
+     "url": "https://www.slideshare.net/laclefyoshi/apache-kafka-90931154",
+     "publisher": "Apache Kafka Meetup Japan #4",
+     "date": "2018/03"},
 ];
 
 var links = [

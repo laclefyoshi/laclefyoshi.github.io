@@ -66,6 +66,10 @@ var presentations = [
      "url": "https://www.slideshare.net/laclefyoshi/apache-kafka-90931154",
      "publisher": "Apache Kafka Meetup Japan #4",
      "date": "2018/03"},
+    {"title": "データの民主化のためにStackStormを活用した事例",
+     "url": "https://www.slideshare.net/laclefyoshi/stackstorm-99437154",
+     "publisher": "Tech Night @ Shiodome #8",
+     "date": "2018/05"},
 ];
 
 var links = [

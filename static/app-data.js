@@ -70,6 +70,10 @@ var presentations = [
      "url": "https://www.slideshare.net/laclefyoshi/stackstorm-99437154",
      "publisher": "Tech Night @ Shiodome #8",
      "date": "2018/05"},
+    {"title": "グラフデータベースNeptune使ってみた",
+     "url": "https://www.slideshare.net/laclefyoshi/neptune-103294851",
+     "publisher": "BigData-JAWS 勉強会#13",
+     "date": "2018/06"},
 ];
 
 var links = [

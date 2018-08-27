@@ -45,7 +45,7 @@
         fixed: true,
         items: [
           { icon: 'apps', title: 'Top', to: '/' },
-          { icon: 'bubble_chart', title: 'Work', to: '/work' },
+          { icon: 'bubble_chart', title: 'Works', to: '/works' },
           { icon: 'bubble_chart', title: 'Links', to: '/links' }
         ]
       }
